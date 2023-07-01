@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T12:22:23.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="c_VVWWrZjLZyDS845yVT" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T12:37:12.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="JNtvxBLOQBq_Nej5_Iym" version="21.3.7" type="github">
   <diagram name="Page-1" id="oTC1ZE3Bsds6GOETxTSx">
-    <mxGraphModel dx="1100" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
         <mxCell id="QK4Vu31ffJdNQrW0z0TG-10" value="&lt;div&gt;Menerima Data Pesanan&lt;/div&gt;&lt;div&gt;dari Kantor Cabang&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QK4Vu31ffJdNQrW0z0TG-1" target="QK4Vu31ffJdNQrW0z0TG-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QK4Vu31ffJdNQrW0z0TG-1" value="SISTEM PENGELOLAAN BARANG" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="QK4Vu31ffJdNQrW0z0TG-1" value="&lt;div&gt;SISTEM PENGELOLAAN BARANG&lt;/div&gt;&lt;div&gt;BARCODE &amp;amp; QR CODE&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="314" y="190" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QK4Vu31ffJdNQrW0z0TG-2" value="MANAGER GUDANG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -34,6 +34,9 @@
         </mxCell>
         <mxCell id="QK4Vu31ffJdNQrW0z0TG-4" value="KANTOR PUSAT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="440" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QK4Vu31ffJdNQrW0z0TG-12" value="&lt;div&gt;DIAGRAM KONTEKS&lt;/div&gt;&lt;div&gt;MUHAMAD ABDUL BARI&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="-30" width="250" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
